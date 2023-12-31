@@ -2119,7 +2119,7 @@ blockquote p>cite {
 
 @media screen and (max-width: 768px) {
   .loco {
-    padding-top: 180px;
+    padding-top: 210px;
   }
 }
 
@@ -2136,7 +2136,7 @@ blockquote p>cite {
 }
 
 
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 768px) {
   .locoprojecte {
     padding-top: 2200px;
   }
@@ -2144,11 +2144,11 @@ blockquote p>cite {
 
 @media screen and (max-width: 768px) {
   .locoprojectefooter {
-    padding-top: 700px;
+    padding-top: 20px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
   .terrassa2005foot {
     padding-top: 1450px;
   }
@@ -2159,6 +2159,14 @@ blockquote p>cite {
 
   .barcelona20foot {
     padding-top: 3100px;
+  }
+
+  .barcelona2023foot {
+    padding-top: 480%;
+  }
+
+  .stq2023foot {
+    padding-top: 240%;
   }
 
   .auditorifoot {
@@ -2177,7 +2185,7 @@ blockquote p>cite {
 
 @media screen and (max-width: 768px) {
   .locoprojectefooter2 {
-    padding-top: 80px;
+    padding-top: 20px;
   }
 
   .g2 {
